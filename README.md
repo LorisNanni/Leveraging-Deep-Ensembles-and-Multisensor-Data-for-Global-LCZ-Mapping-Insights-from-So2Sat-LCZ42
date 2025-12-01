@@ -1,6 +1,8 @@
 # Deep Ensembles and Multisensor Data for Global LCZ Mapping: Insights from So2Sat LCZ42
 Deep Ensembles and Multisensor Data for Global LCZ Mapping: Insights from So2Sat LCZ42
 
+Attention! In the original version of the paper, the rows and columns in the confusion matrices are inverted. Here I have uploaded the PDF with the corrected confusion matrix.
+
 Clearly, the batch size and the number of training epochs are closely related to your GPU computational power. 
 Adjust them so that the training is feasible on your GPU.
 
